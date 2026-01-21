@@ -21,7 +21,6 @@ I hold a bachelor degree in BA and planning to persue a finance-related degree. 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40" title="Scikit-Learn" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" title="Matplotlib" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" title="Anaconda" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" />
 </p>
 
 **Finance & Data Tools:** `yfinance`, `seaborn`, `bs4 (BeautifulSoup)`, `mplfinance`
