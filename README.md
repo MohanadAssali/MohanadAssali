@@ -39,8 +39,5 @@ I hold a bachelor degree in BA and planning to persue a finance-related degree. 
 - **Algorithmic Trading** – (Incoming)
 ---
 
-## 📫 Quote
-> “A good decision is based on a sound process, not on the outcome.”
-
 
 ---
