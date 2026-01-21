@@ -41,7 +41,7 @@ I hold a bachelor degree in BA and planning to persue a finance-related degree. 
 ---
 
 ## 📫 Quote
-> “The goal of trading is not to be right, but to make money when you are right and lose little when you are wrong.”
+> “A good decision is based on a sound process, not on the outcome.”
 
 
 ---
