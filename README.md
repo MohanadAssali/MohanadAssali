@@ -31,7 +31,7 @@ I hold a bachelor degree in BA and planning to persue a finance-related degree. 
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 - **Financial Modeling** – Financial modeling on various sp500 stocks to guide investment decisions.
  
