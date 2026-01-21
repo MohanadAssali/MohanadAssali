@@ -8,7 +8,7 @@ I hold a bachelor degree in BA and planning to persue a finance-related degree. 
 
 ## 📊 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/mohanad-assali-3115a8279)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohanad-assali-3115a8279)
 
 ---
 
