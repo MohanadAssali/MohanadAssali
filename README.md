@@ -3,6 +3,9 @@
 **(BBA/Finance/Financial Markets)**
 
 I hold a bachelor degree in BA and planning to persue a finance-related degree. In addition, I have 5-year experience in financial markets which allowed me to gather invaluable resources and data. This github displays provides financial models on many US Stocks and Python codes that are relevant for finance.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3670A0&width=435&lines=Quantitative+Equity+Research;Mastering+Financial+Econometrics;Learning+Algorithmic+Trading+Models;Retail+and+Prop+Trading" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -38,6 +41,7 @@ I hold a bachelor degree in BA and planning to persue a finance-related degree. 
 
 - **Algorithmic Trading** – (Incoming)
 ---
+![SPY Trend](https://quickchart.io/chart?c={type:'sparkline',data:{datasets:[{fill:false,borderColor:'rgb(75,192,192)',data:[4700,4750,4720,4800,4850,4820,4900]}]}})
 
 
 ---
