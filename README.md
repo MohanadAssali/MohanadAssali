@@ -31,12 +31,13 @@ I hold a bachelor degree in BA and planning to persue a finance-related degree. 
 
 ## 🚀 Featured Projects
 
-- **Financial Modeling** – Financial modeling on various sp500 stocks to guide investment decisions
+- **Financial Modeling** – Financial modeling on various sp500 stocks to guide investment decisions.
  
 
-- **Python for Finance** – Creating Python Framework that is supplements financial modelling and investing
+- **Python for Finance** – Creating Python Framework that supplements financial modelling.
 
 
+- **Algorithmic Trading** – (Incoming)
 ---
 
 ## 📫 Quote
