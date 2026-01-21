@@ -39,7 +39,7 @@ I hold a bachelor degree in BA and planning to persue a finance-related degree. 
 - **Python for Finance** – Creating Python Framework that supplements financial modelling.
 
 
-- **Algorithmic Trading** – (Incoming)
+
 ---
 ![SPY Trend](https://quickchart.io/chart?c={type:'sparkline',data:{datasets:[{fill:false,borderColor:'rgb(75,192,192)',data:[4700,4750,4720,4800,4850,4820,4900]}]}})
 
