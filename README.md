@@ -2,7 +2,7 @@
 
 **(BBA/Finance/Financial Markets)**
 
- This github displays financial models on many US Stocks and Python codes that are relevant for finance.
+ This github profile displays financial models on many US Stocks and Python codes that are relevant for finance.
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3670A0&width=435&lines=Quantitative+Equity+Research;Financial+Econometrics;Learning+Algorithmic+Trading;Retail+and+Prop+Trading" alt="Typing SVG" />
 </p>
