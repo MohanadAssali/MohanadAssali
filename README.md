@@ -32,10 +32,10 @@
 
 ## 🚀 Projects
 
-- **Financial Modeling** – Financial modeling on various sp500 stocks to guide investment decisions.
+- **Equity Research** – Creating Financial models on many US Stocks to guide investment decisions.
  
 
-- **Python for Finance** – Creating Python Framework that supplements financial modelling.
+- **Python for Finance** – Building Python Framework that can be applied to any stock, supplementing financial modelling.
 
 
 
