@@ -7,7 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3670A0&width=435&lines=Quantitative+Equity+Research;Financial+Econometrics;Learning+Algorithmic+Trading;Retail+and+Prop+Trading" alt="Typing SVG" />
 </p>
 
----
 
 ## 📊 Connect
 
