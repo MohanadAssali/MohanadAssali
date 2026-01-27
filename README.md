@@ -1,6 +1,6 @@
 #  Mohanad Assali
 
-**(BBA/Finance/Financial Markets)**
+**(BBA/Finance/Financial Markets/Python)**
 
  This github profile displays financial models on many US Stocks and Python codes that are relevant for finance.
 <p align="center">
