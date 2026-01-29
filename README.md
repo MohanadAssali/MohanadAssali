@@ -32,10 +32,10 @@
 
 ## 🚀 Projects
 
-- **Equity Research** – Creating Financial models on many US Stocks to guide investment decisions.
+- **Equity Research** – Financial models on many US Stocks to guide investment decisions.
  
 
-- **Python for Finance** – Building Python Framework that can be applied to any stock, supplementing financial modelling.
+- **Python for Finance** – Building Python Framework that can be applied to any stock, supplementing equity research.
 
 
 
