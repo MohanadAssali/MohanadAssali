@@ -2,7 +2,7 @@
 
 **(BBA/Finance/Financial Markets/Python)**
 
- This github profile displays financial models on many US Stocks and Python codes that are relevant for finance.
+ This github profile displays financial models on various US Stocks and Python codes that are relevant for finance.
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3670A0&width=435&lines=Quantitative+Equity+Research;Financial+Econometrics;Learning+Algorithmic+Trading;Discretionary+Retail+Trading" alt="Typing SVG" />
 </p>
@@ -32,10 +32,10 @@
 
 ## 🚀 Projects
 
-- **Equity Research** – Financial models on many US Stocks to guide investment decisions.
+- **Equity Research** – Financial models on various US Companies to guide investment decisions.
  
 
-- **Python for Finance** – Building Python Framework that can be applied to any stock, supplementing equity research.
+- **Python for Finance** – Building Python Framework that can be applied to any valuation, supplementing equity research.
 
 
 
