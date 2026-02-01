@@ -26,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40" title="Anaconda" />
 </p>
 
-**Finance-related:** `yfinance`, `seaborn`, `bs4 (BeautifulSoup)`, `mplfinance`
+**Finance-related:** `yfinance`, `seaborn`, `bs4`, `mplfinance`
 
 
 ---
