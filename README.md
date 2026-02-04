@@ -33,11 +33,10 @@ This GitHub profile showcases financial models and Python code related to financ
 
 ## 🚀 Projects
 
-- **Equity Research** – Financial models on various US Companies to guide investment decisions.
+- **Equity Research** financial models covering wide range of companies across different industries and markets.
  
 
-- **Python for Finance** – Building Python Framework that can be applied to any valuation, supplementing equity research.
-
+- **Python for Finance** : Python code related to finance
 
 
 ---
