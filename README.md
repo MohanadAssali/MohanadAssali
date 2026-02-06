@@ -7,9 +7,6 @@ This GitHub profile showcases financial models and Python code related to financ
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3670A0&width=435&lines=Equity+Research;Financial+Econometrics;Learning+Algorithmic+Trading;Discretionary+Retail+Trading" alt="Typing SVG" />
 </p>
 
-
-## 📊 Connect
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohanad-assali-3115a8279)
 
 ---
