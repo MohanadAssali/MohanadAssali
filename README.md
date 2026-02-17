@@ -23,7 +23,7 @@ This GitHub profile showcases financial models and Python code related to financ
  `yfinance`, `seaborn`, `bs4`, `mplfinance`
 
 
----
+
 
 ## 🚀 Projects
 
