@@ -1,3 +1,6 @@
+![Profile Image](https://github.com/MohanadAssali/archive/blob/a277b486fc0ee76cdd2e25196f6feab24ab9e31c/1759944996318.jpg?raw=true)
+
+
 #  Mohanad Assali
 
 **(BBA/Finance/Financial Markets/Python)**
