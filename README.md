@@ -1,4 +1,5 @@
-![Profile Image](https://github.com/MohanadAssali/archive/blob/a277b486fc0ee76cdd2e25196f6feab24ab9e31c/logo1151727.jpg?raw=true)
+![Profile Image](https://raw.githubusercontent.com/MohanadAssali/Models/othertopics/logo1151727.jpg?v=1)
+
 
 This GitHub profile showcases financial models and Python code related to finance, covering a wide range of companies across different industries and markets.
 <p align="center">
