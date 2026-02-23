@@ -38,7 +38,7 @@ This GitHub profile showcases financial models and Python code related to financ
 - **Python for Finance** : Finance-related Python coding to supplement equity research.
 
 
----
+
 
 ![SPY Trend](https://quickchart.io/chart?c={type:'sparkline',data:{datasets:[{fill:false,borderColor:'rgb(75,192,192)',data:[4700,4750,4720,4800,4850,4820,4900]}]}})
 
