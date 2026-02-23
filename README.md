@@ -11,7 +11,7 @@ This GitHub profile showcases financial models and Python code related to financ
 </p>
 
 
----
+
 
 ## 🛠 Languages & Tools
 
@@ -41,5 +41,7 @@ This GitHub profile showcases financial models and Python code related to financ
 
 
 ![SPY Trend](https://quickchart.io/chart?c={type:'sparkline',data:{datasets:[{fill:false,borderColor:'rgb(75,192,192)',data:[4700,4750,4720,4800,4850,4820,4900]}]}})
+
+---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohanad-assali-3115a8279)
