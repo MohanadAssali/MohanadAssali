@@ -32,6 +32,9 @@ This GitHub profile showcases financial models and Python code related to financ
 
 ## 🚀 Projects
 
+- **Market Microstructure Research**: Developing a systematic framework for analyzing order flow dynamics. Taking into account various Market Regimes , refining entry probability and risk-adjusted performance.
+ 
+
 - **Financial Modelling**  Developing comprehensive equity research, acquisition (LBO), and derivative pricing models featuring advanced quantitative structures.
  
 
