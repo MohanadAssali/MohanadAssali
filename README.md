@@ -5,7 +5,7 @@
 
 
 
-This GitHub profile showcases equity research (Financial modeling and Python) covering a wide range of companies across different industries and markets. Furthermore it delves into original research on Financial Markets Microstructure
+This GitHub profile showcases equity research (Financial modeling and Python) covering a wide range of companies across different industries and markets. Furthermore, it includes Quant finance and research on Microstructure 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3670A0&width=435&lines=Equity+Research+/+Valuation+.+.+.;Financial+Econometrics+.+.+.;Algorithmic+Trading+.+.+.;Discretionary+Retail+Trading+.+.+.;Behavioral+Finance+.+.+." alt="Typing SVG" />
 </p>
