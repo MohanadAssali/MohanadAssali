@@ -28,7 +28,7 @@ This GitHub profile showcases equity research (Financial modeling and Python) co
 
 
 
-## 🚀 Projects
+## 🚀 Topics
 
 - **Market Microstructure Research**: Developing a systematic framework for analyzing order flow dynamics. Taking into account various Market Regimes , refining entry probability and risk-adjusted performance.
  
