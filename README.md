@@ -36,7 +36,7 @@ This GitHub profile showcases equity research (Financial modeling and Python) co
 - **Financial Modelling**: Developing comprehensive equity research, acquisition (LBO), and derivative pricing models featuring advanced quantitative structures.
  
 
-- **Python for Finance** : Finance-related Python coding to supplement equity research.
+- **Python for Finance** : Finance-related Python coding 
 
 
 
