@@ -1,12 +1,3 @@
-<img width="300" height="300" alt="7b856928d07829a42c301181132cd855" src="https://github.com/user-attachments/assets/c899a9b9-85bb-4cf2-9a87-ae23eeb20581" />
-
-
-
-
-
-
-
-
 
 <img src="https://raw.githubusercontent.com/MohanadAssali/Models/1a81738a371a2b388cb0f1c0c924bcf850941b9b/othertopics%20/logo.jpg" width="1000">
 
