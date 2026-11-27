@@ -9,6 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3670A0&width=435&lines=Equity+Research+/+Valuation+.+.+.;Financial+Econometrics+.+.+.;Portfolio Management+.+.+.;Quant Research+.+.+.;Behavioral+Finance+.+.+." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3670A0&width=435&lines=Equity+Research+%26+Valuation...;Financial+Econometrics...;Portfolio+Management...;Quant+Research...;Behavioral+Finance..." alt="Typing SVG" />
 </p>
 This github profile showcases equity research, quantitative models and programming (R, VBA, python)
